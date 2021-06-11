@@ -1,0 +1,1 @@
+rm -rf apify_storage *cookies.all *cookies.json *visited.urls 
